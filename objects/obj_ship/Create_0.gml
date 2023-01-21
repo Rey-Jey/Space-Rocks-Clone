@@ -5,5 +5,4 @@ guns = -1;
 invincible = false;
 
 exhaustCount = 0;
-
-//git hub testing!!!
+//git hub test
