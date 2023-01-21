@@ -1,0 +1,1 @@
+global.camShake = 0;
